@@ -33,3 +33,38 @@ I would personally choose AWS because it provides a wide range of cloud services
 Conclusion
 
 AWS, Microsoft Azure, and Google Cloud Platform are all powerful cloud computing platforms. AWS is known for its broad service selection, Azure is strong in Microsoft integration and hybrid cloud environments, while Google Cloud is particularly strong in artificial intelligence, data analytics, and Kubernetes. The best platform depends on the organization's requirements, existing technologies, budget, and technical goals.
+
+Checkpoint 5 – Match the Cloud Services
+
+Equivalent Cloud Services Reference Table
+
+| Service Category | AWS | Azure | GCP |
+|------------------|-----|-------|-----|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+Service Matching Explanation
+
+Virtual Machine
+
+Amazon EC2, Azure Virtual Machines, and Google Compute Engine provide virtual computing resources for running applications and workloads in the cloud.
+
+Object Storage
+
+Amazon S3, Azure Blob Storage, and Google Cloud Storage provide scalable object storage for files, backups, images, videos, and other unstructured data.
+
+Identity Management
+
+AWS IAM, Microsoft Entra ID, and Google Cloud IAM provide identity and access management. They allow administrators to control users, permissions, roles, and access to cloud resources.
+
+SQL Database
+
+Amazon RDS, Azure SQL Database, and Cloud SQL provide managed relational database services. These services reduce the amount of manual database administration required by organizations.
+
+Kubernetes
+
+Amazon EKS, Azure Kubernetes Service (AKS), and Google Kubernetes Engine (GKE) are managed Kubernetes services used to deploy, manage, and scale containerized applications.
+
