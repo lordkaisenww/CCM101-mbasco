@@ -80,3 +80,29 @@ Main Reason: Global infrastructure, high availability, automatic scaling, load b
 Final Recommendation
 
 CloudNova Technologies should consider the specific requirements of each client instead of using one cloud provider for every organization. AWS is recommended for the startup and global e-commerce company because of its broad services and scalability. Microsoft Azure is the best choice for the university because of its strong Microsoft ecosystem integration. Google Cloud is recommended for the AI research company because of its strong AI, machine learning, data, and Kubernetes capabilities.
+
+Checkpoint 6 – Multi-Cloud Decision Matrix
+
+Business Requirement | Recommended Platform | Justification
+---------------------|----------------------|-------------
+Startup Company | AWS | AWS provides a wide range of scalable and flexible services that allow startups to begin with smaller resources and expand as their applications grow.
+Enterprise Organization | AWS | AWS provides a broad selection of enterprise services, strong security features, global infrastructure, and scalable resources for complex workloads.
+Microsoft Environment | Microsoft Azure | Azure provides strong integration with Windows Server, Microsoft 365, Microsoft Entra ID, and other Microsoft technologies.
+AI / Machine Learning | Google Cloud Platform | Google Cloud provides strong artificial intelligence and machine learning services, including Vertex AI and high-performance computing resources.
+Kubernetes Deployment | Google Cloud Platform | Google Cloud provides Google Kubernetes Engine (GKE), a managed Kubernetes platform designed for deploying, managing, and scaling containerized applications.
+Global Web Application | AWS | AWS provides global infrastructure, automatic scaling, load balancing, content delivery, and other services that support highly available web applications.
+
+Decision Matrix Summary
+
+1. Startup Company – AWS is recommended because it provides scalable services and a large selection of tools suitable for growing businesses.
+
+2. Enterprise Organization – AWS is recommended because of its broad service portfolio, security capabilities, scalability, and global infrastructure.
+
+3. Microsoft Environment – Microsoft Azure is recommended because it integrates strongly with existing Microsoft technologies.
+
+4. AI / Machine Learning – Google Cloud is recommended because of its strong AI, machine learning, and data analytics capabilities.
+
+5. Kubernetes Deployment – Google Cloud is recommended because Google Kubernetes Engine provides a managed Kubernetes environment for containerized applications.
+
+6. Global Web Application – AWS is recommended because its global infrastructure and scalability can support applications serving users around the world.
+
