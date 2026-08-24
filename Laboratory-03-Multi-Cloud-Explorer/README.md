@@ -122,3 +122,30 @@ The screenshot shows the output of the df -h command showing the 19 GB /dev/vda1
 
 ![Disk Space Screenshot](disk-screenshot.png)
 
+
+## Terminal Screenshots
+
+### Screenshot 1 – Operating System
+
+The screenshot shows the output of the `cat /etc/os-release` command identifying Ubuntu 24.04.4 LTS.
+
+![Operating System Screenshot](screenshots/os-screenshot.png)
+
+### Screenshot 2 – CPU Information
+
+The screenshot shows the output of the `lscpu` command identifying the x86_64 architecture, one CPU, and the Intel Xeon E312xx processor.
+
+![CPU Information Screenshot](screenshots/cpu-screenshot.png)
+
+### Screenshot 3 – Memory Information
+
+The screenshot shows the output of the `free -h` command showing 1.9 GiB of total memory.
+
+![Memory Information Screenshot](screenshots/memory-screenshot.png)
+
+### Screenshot 4 – Disk Space
+
+The screenshot shows the output of the `df -h` command showing the 19 GB `/dev/vda1` disk with 13 GB available.
+
+![Disk Space Screenshot](screenshots/disk-screenshot.png)
+
