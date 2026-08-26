@@ -40,43 +40,43 @@ Purpose: Connecting virtual machines, applications, and other cloud resources se
 
 Azure Benefits
 
-- Flexible cloud infrastructure
-- Global scalability
-- Hybrid cloud support
-- Security and compliance features
-- Integration with Microsoft technologies
-- Artificial intelligence and machine learning services
-- Managed databases
-- Serverless computing
-- Enterprise management tools
+Flexible cloud infrastructure
+Global scalability
+Hybrid cloud support
+Security and compliance features
+Integration with Microsoft technologies
+Artificial intelligence and machine learning services
+Managed databases
+Serverless computing
+Enterprise management tools
 
 Azure Use Cases
 
-Azure can be used for:
-
-- Website hosting
-- Application development
-- Virtual machines
-- Database management
-- Cloud storage
-- Backup and disaster recovery
-- Artificial intelligence
-- Data analytics
-- Hybrid cloud infrastructure
-- Enterprise applications
+Website hosting
+Application development
+Virtual machines
+Database management
+Cloud storage
+Backup and disaster recovery
+Artificial intelligence
+Data analytics
+Hybrid cloud infrastructure
+Enterprise applications
 
 Azure Importance to System Administration
 
 Azure provides tools that allow system administrators to manage virtual machines, networks, storage, databases, identities, security policies, and cloud resources.
 
-Administrators can also use automation and management tools to reduce manual work and maintain cloud infrastructure efficiently.
-
 Conclusion
 
-Microsoft Azure is a major cloud computing platform that provides infrastructure, platform, data, AI, networking, security, and management services. It is especially useful for organizations that require cloud and hybrid infrastructure.
+Microsoft Azure is a major cloud computing platform that provides infrastructure, platform, data, AI, networking, security, and management services.
+
+SCREENSHOT
+
+![Azure Homepage Screenshot](screenshots/azure-homepage.png)
 
 Official Sources
 
-- Microsoft Azure: https://azure.microsoft.com/
-- Azure Overview: https://azure.microsoft.com/en-us/explore
-- Azure Documentation: https://learn.microsoft.com/azure/
+Microsoft Azure: https://azure.microsoft.com/
+Azure Overview: https://azure.microsoft.com/en-us/explore
+Azure Documentation: https://learn.microsoft.com/azure/

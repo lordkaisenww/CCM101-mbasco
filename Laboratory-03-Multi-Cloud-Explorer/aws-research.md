@@ -10,7 +10,7 @@ Major AWS Services
 
 1. Amazon EC2
 
-Amazon Elastic Compute Cloud (EC2) provides virtual servers in the cloud. Users can select the computing capacity, operating system, storage, and networking configuration needed for their applications.
+Amazon Elastic Compute Cloud (EC2) provides virtual servers in the cloud.
 
 Purpose: Running applications and virtual machines.
 
@@ -40,28 +40,26 @@ Purpose: Managing private networks, subnets, IP addresses, routing, and security
 
 AWS Benefits
 
-- Scalable cloud infrastructure
-- Pay-as-you-go pricing
-- Large selection of cloud services
-- Global infrastructure
-- Flexible computing resources
-- Security and identity management
-- Support for application development
-- Backup and disaster recovery capabilities
+Scalable cloud infrastructure
+Pay-as-you-go pricing
+Large selection of cloud services
+Global infrastructure
+Flexible computing resources
+Security and identity management
+Support for application development
+Backup and disaster recovery capabilities
 
 AWS Use Cases
 
-AWS can be used for:
-
-- Website hosting
-- Application development
-- Database hosting
-- Data storage and backup
-- Artificial intelligence and machine learning
-- Big data and analytics
-- Cloud migration
-- Serverless applications
-- Enterprise infrastructure
+Website hosting
+Application development
+Database hosting
+Data storage and backup
+Artificial intelligence and machine learning
+Big data and analytics
+Cloud migration
+Serverless applications
+Enterprise infrastructure
 
 AWS Importance to System Administration
 
@@ -69,10 +67,14 @@ AWS can help system administrators manage cloud infrastructure instead of depend
 
 Conclusion
 
-AWS is a comprehensive cloud platform with services covering computing, storage, networking, databases, security, analytics, and application development. Its wide range of services makes it useful for organizations of different sizes and for many types of workloads.
+AWS is a comprehensive cloud platform with services covering computing, storage, networking, databases, security, analytics, and application development.
+
+SCREENSHOT
+
+![AWS Homepage Screenshot](screenshots/aws-homepage.png)
 
 Official Sources
 
-- AWS Documentation: https://docs.aws.amazon.com/
-- AWS Overview: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
-- AWS Documentation Overview: https://aws.amazon.com/documentation-overview/
+AWS Documentation: https://docs.aws.amazon.com/
+AWS Overview: https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html
+AWS Documentation Overview: https://aws.amazon.com/documentation-overview/

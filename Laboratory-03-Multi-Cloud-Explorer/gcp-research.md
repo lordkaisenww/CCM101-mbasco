@@ -40,29 +40,27 @@ Purpose: Analyzing large datasets and generating data-driven insights.
 
 Google Cloud Benefits
 
-- Scalable cloud infrastructure
-- Global network and infrastructure
-- Virtual machines and managed platforms
-- Container and Kubernetes support
-- Data analytics services
-- Artificial intelligence and machine learning
-- Infrastructure-as-code support
-- Cloud CLI and web console management
+Scalable cloud infrastructure
+Global network and infrastructure
+Virtual machines and managed platforms
+Container and Kubernetes support
+Data analytics services
+Artificial intelligence and machine learning
+Infrastructure-as-code support
+Cloud CLI and web console management
 
 Google Cloud Use Cases
 
-Google Cloud can be used for:
-
-- Website and application hosting
-- Virtual machines
-- Cloud storage
-- Database management
-- Kubernetes and containers
-- Big data analytics
-- Artificial intelligence
-- Machine learning
-- Application development
-- Cloud infrastructure automation
+Website and application hosting
+Virtual machines
+Cloud storage
+Database management
+Kubernetes and containers
+Big data analytics
+Artificial intelligence
+Machine learning
+Application development
+Cloud infrastructure automation
 
 Google Cloud Resource Organization
 
@@ -72,28 +70,28 @@ A project acts as an organizational unit for cloud resources. Regions represent 
 
 Google Cloud Management Tools
 
-Google Cloud resources can be managed using:
-
-- Google Cloud Console
-- Google Cloud CLI
-- Client libraries
-- APIs
-- Terraform
-- Infrastructure-as-code tools
+Google Cloud Console
+Google Cloud CLI
+Client libraries
+APIs
+Terraform
+Infrastructure-as-code tools
 
 Google Cloud Importance to System Administration
 
 Google Cloud allows system administrators to manage virtual machines, storage, networks, databases, containers, security, and cloud resources.
 
-Administrators can use the Google Cloud Console and command-line tools to automate and manage infrastructure efficiently.
-
 Conclusion
 
-Google Cloud is a major cloud computing platform that provides services for computing, storage, networking, databases, containers, analytics, artificial intelligence, and application development. Its strong support for data analytics, Kubernetes, and cloud-native applications makes it an important platform for modern cloud infrastructure.
+Google Cloud is a major cloud computing platform that provides services for computing, storage, networking, databases, containers, analytics, artificial intelligence, and application development.
+
+SCREENSHOT
+
+![GCP Homepage Screenshot](screenshots/gcp-homepage.png)
 
 Official Sources
 
-- Google Cloud: https://cloud.google.com/
-- Google Cloud Documentation: https://docs.cloud.google.com/
-- Google Cloud Overview: https://docs.cloud.google.com/docs/overview
-- Google Cloud Compute Overview: https://docs.cloud.google.com/docs/compute-area/overview
+Google Cloud: https://cloud.google.com/
+Google Cloud Documentation: https://docs.cloud.google.com/
+Google Cloud Overview: https://docs.cloud.google.com/docs/overview
+Google Cloud Compute Overview: https://docs.cloud.google.com/docs/compute-area/overview
