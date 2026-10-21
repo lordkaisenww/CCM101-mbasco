@@ -1,0 +1,11 @@
+# Final Reflection: Mission 1 to Mission 10
+
+During Mission 1, I learned about cloud computing and how it works. I understand that cloud computing is important because it helps companies to store data, manage resources, and make their systems more flexible. In Missions 2 and 3, I learned how to build cloud infrastructure and compare different cloud providers like AWS, Azure, and Google Cloud. I realized that they have different services but almost the same purpose.
+
+In Missions 4 and 5, I learned about Docker containers and cloud storage. At first, it was confusing for me because there are many commands that I need to understand. But after practicing, I slowly understand how containers work and why storage is important in cloud computing. In Missions 6 and 7, I learned how to deploy applications using Docker Compose and how to check logs and monitor containers. I also learned that checking the system is important to know if there is an error or problem.
+
+Mission 8 taught me about cloud security, especially using UFW firewall to protect the server. I learned that we should not allow all ports because it can make our system vulnerable. In Mission 9, I learned about automation using Bash scripts and cron jobs. This mission helped me understand how to make automatic backups instead of doing it manually every time.
+
+Mission 10 is where I applied almost everything I learned from the previous missions. I deployed WordPress and MySQL using Docker Compose, configured the firewall, created backup scripts, and documented the process. I encountered some errors while doing the activities, especially in commands and configurations, but I tried to fix them by checking the logs and reviewing my previous activities.
+
+Overall, Missions 1 to 10 helped me improve my knowledge and skills in cloud computing. Before, I only have a little knowledge about cloud infrastructure, but now I understand more about deploying, securing, monitoring, and managing a system. I know that I still have many things to learn and improve, but these missions gave me experience that I can use in the future. As an IT student, I believe that these lessons will help me become more prepared when I work in the IT industry someday.
