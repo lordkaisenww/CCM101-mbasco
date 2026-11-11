@@ -2,7 +2,7 @@
 
 **Audience:** Client IT Team (handover document)
 **System:** WordPress + MySQL 8.0 on Docker Compose, Ubuntu Server VM
-**Author:** cbadongen | **Course:** CCM101 – Laboratory 10: Enterprise Cloud Architect
+**Author:** mbasco | **Course:** CCM101 – Laboratory 10: Enterprise Cloud Architect
 
 ---
 
@@ -73,9 +73,9 @@ sudo usermod -aG docker $USER   # log out/in after this
 ### 4.2 Fetch the stack
 
 ```bash
-git clone https://github.com/<username>/CCM101-cbadongen.git
+git clone https://github.com/<username>/CCM101-mbasco.git
 mkdir -p ~/wp-stack
-cp CCM101-cbadongen/Laboratory-10-Enterprise-Cloud-Architect/{docker-compose.yml,automation-script.sh,.env.example} ~/wp-stack/
+cp CCM101-mbasco/Laboratory-10-Enterprise-Cloud-Architect/{docker-compose.yml,automation-script.sh,.env.example} ~/wp-stack/
 cd ~/wp-stack
 chmod +x automation-script.sh
 ```
